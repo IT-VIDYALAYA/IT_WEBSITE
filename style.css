@@ -1092,6 +1092,14 @@ form .g-inp {
         padding: 10px;
     }
 
+    #video-background {
+        height: 500px;
+    }
+
+    #hero{
+        height: 500px;
+    }
+
     #hero h1 {
         font-size: 3.5rem;
     }
